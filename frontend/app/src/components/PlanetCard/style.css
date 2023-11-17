@@ -1,0 +1,9 @@
+.planet-card {
+    background-color: #e6e6e6;
+    width: fit-content;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 12px;
+
+}
